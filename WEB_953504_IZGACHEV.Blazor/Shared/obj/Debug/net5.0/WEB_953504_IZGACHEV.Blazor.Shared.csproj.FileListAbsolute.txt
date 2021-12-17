@@ -1,0 +1,12 @@
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\bin\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.deps.json
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\bin\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.dll
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\bin\Debug\net5.0\ref\WEB_953504_IZGACHEV.Blazor.Shared.dll
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\bin\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.pdb
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.AssemblyInfoInputs.cache
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.AssemblyInfo.cs
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.csproj.CoreCompileInputs.cache
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.dll
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\ref\WEB_953504_IZGACHEV.Blazor.Shared.dll
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.pdb
+D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Shared\obj\Debug\net5.0\WEB_953504_IZGACHEV.Blazor.Shared.csproj.AssemblyReference.cache

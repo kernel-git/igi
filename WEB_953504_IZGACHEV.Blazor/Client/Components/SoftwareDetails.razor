@@ -1,0 +1,24 @@
+﻿@if (Software != null)
+{
+	<img src="@imageSrc" class="img-thumbnail" width="150" />
+	<div>
+		<p>@Software.SoftwareName - @Software.Description</p>
+		<div class="badge badge-info ">
+			@Software.Price
+		$
+	</div>
+</div>
+}
+@code {
+	[Parameter]
+	public DetailsViewModel Software { get; set; }
+	[Parameter]
+	public EventCallback<DetailsViewModel> SoftwareChanged { get; set; }
+	string imageSrc
+	{
+		get
+		{
+			return $"images/{Software.Image}";
+		}
+	}
+}

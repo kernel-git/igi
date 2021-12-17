@@ -1,0 +1,7 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="D:\Study\IGI\WEB_953504_IZGACHEV.Blazor\Client\wwwroot\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\izgac\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.11\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/WEB_953504_IZGACHEV" Path="D:\Study\IGI\WEB_953504_IZGACHEV\wwwroot\" />
+</StaticWebAssets>
